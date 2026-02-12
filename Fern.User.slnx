@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/Src/">
+    <Project Path="Src/Fern.User.Domain/Fern.User.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/Fern.User.Tests.Unit/Fern.User.Tests.Unit.csproj" />
+  </Folder>
+</Solution>
