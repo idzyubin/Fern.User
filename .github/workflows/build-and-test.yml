@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   build:
-    runs-on: [ubuntu-latest, windows-latest, macos-latest]
+    runs-on: ubuntu-latest
     strategy:
       matrix: 
         dotnet-version: [ '10.0.x' ]
